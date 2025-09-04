@@ -1,5 +1,5 @@
 Estructura de ejemplo para un archivo README.md. Después de crear tu actividad, puedes generar un archivo README reemplazando el texto instructivo en este archivo. Los ejemplos terminados se verán de manera similar a [este](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives_es).
-# Adicione aquí el Titulo de la Actividad de Enseñanza
+# Método de Bisección
 
 Añade una insignia de [Abrir en MATLAB&reg; Online&trade;](https://www.mathworks.com/products/matlab-online/git.html).
 
@@ -8,35 +8,48 @@ Añade una insignia de [Abrir en MATLAB&reg; Online&trade;](https://www.mathwork
 <!-- Agrega el icono de "Abrir en MATLAB Online" al README para abrir un archivo específico en MATLAB Online -->
 
 ## Autor
-Adicione su nombre y afiliación
+Francisco Javier Ramírez Arias  
+Profesor-Investigador, Universidad Autónoma de Baja California (UABC), Campus Valle de las Palmas  
+Miembro del Sistema Nacional de Investigadores (SNII)  
 
 ## Resumen de la actividad
-Por favor, proporcione una breve descripción de su actividad o tarea y sus resultados. 
-Asegúrese de incluir palabras clave para ayudar otros a encontrar sus materiales utilizando nuestras funciones de búsqueda/navegación.
+La actividad presenta el **Método de Bisección** como técnica numérica para encontrar raíces de funciones de una variable.  
+Se incluyen conceptos clave como: **tolerancia, error absoluto, error relativo y el Teorema del Valor Intermedio**, además de varias versiones del algoritmo implementadas en **MATLAB**. La actividad incorpora un caso de aplicación en ingeniería (modelo de diodo) que permite a los estudiantes desarrollar habilidades **analíticas, computacionales y prácticas** en métodos numéricos. 
 
 ## Contexto o pre-requisitos
-La actividad está diseñada para cursos de **ingeniería en etapas iniciales** donde los estudiantes requieren familiarizarse con el uso de instrumentos de medición.  
-Se recomienda que los participantes tengan conocimientos básicos de:  
-- Ley de Ohm  
-- Circuitos eléctricos sencillos (serie y paralelo)  
-- Uso básico de MATLAB
+La actividad es adecuada para cursos de **programación y métodos numéricos** en programas de ingeniería.  
+Los estudiantes deben tener conocimientos básicos de:  
+- Funciones y ecuaciones de una variable.  
+- Concepto de raíz de una función.  
+- Manejo elemental de MATLAB. 
   
 ## Asignaturas o departmento donde se puede usar la Actividad
+- Programación y Métodos Numéricos  
+- Matemáticas Aplicadas  
 - Ingeniería Electrónica  
 - Ingeniería Mecatrónica  
-- Bioingeniería  
 - Ingeniería Aeroespacial  
-- Cursos de tronco común en Ingeniería  
-- Laboratorios de **Mediciones Eléctricas y Electrónicas**
+- Bioingeniería  
+- Cursos de Tronco Común en Ingeniería  
 
 ## Notas para los Educadores usando la Actividad
-Esta sección debe incluir notas y consejos para los instructores que podrían utilizar la actividad.
+- Explicar previamente el **Teorema del Valor Intermedio** como fundamento teórico del método.  
+- Recomendar a los estudiantes realizar **iteraciones manuales** iniciales para comprender el proceso antes de implementarlo en MATLAB.  
+- Se puede enfatizar la diferencia entre **criterios de paro** (error absoluto vs. relativo).  
+- Fomentar el trabajo en equipo, dividiendo roles: un estudiante programa, otro interpreta resultados, y otro redacta conclusiones.  
+- La aplicación al modelo de diodo ayuda a conectar el método con un **problema real de ingeniería**.  
 
 ## Evaluación
-Describe brevemente cómo determinas si los estudiantes han alcanzado los objetivos de esta tarea o actividad.
-O si la actividad es exploratoria
+La evaluación se puede realizar mediante:  
+1. **Reportes de laboratorio** con resultados analíticos, tablas y gráficas generadas en MATLAB.  
+2. **Preguntas de reflexión** sobre la diferencia entre errores absoluto y relativo.  
+3. **Comparación de resultados teóricos y computacionales** para validar comprensión.  
+4. **Análisis del caso práctico (diodo)**: los estudiantes deben interpretar los resultados en un contexto físico.  
 
 ## Recursos adicionales
-Esta sección debe incluir referencias y enlaces a recursos en línea que discutan la actividad específica o que apoyen a los docentes
-y/o estudiantes que utilicen la actividad.
-
+- [Wikipedia – Método de Bisección](https://en.wikipedia.org/wiki/Bisection_method)  
+- [GeeksforGeeks – Program for Bisection Method](https://www.geeksforgeeks.org/dsa/program-for-bisection-method/)  
+- [MATLAB File Exchange – Método de Bisección](https://www.mathworks.com/matlabcentral/fileexchange/80044-metodo-de-biseccion?s_tid=ta_fx_results)  
+- Chapra, S. C. (2012). *Applied Numerical Methods with MATLAB for Engineers and Scientists*. McGraw-Hill.  
+- Gilat, A. & Subramaniam, V. (2014). *Numerical Methods for Engineers and Scientists with Applications using MATLAB*. Wiley.  
+- Mathews, J. H., & Fink, K. D. (2004). *Numerical Methods using MATLAB*. Pearson. 
