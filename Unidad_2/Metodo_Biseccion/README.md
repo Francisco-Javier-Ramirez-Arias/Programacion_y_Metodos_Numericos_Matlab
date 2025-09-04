@@ -15,8 +15,12 @@ Por favor, proporcione una breve descripción de su actividad o tarea y sus resu
 Asegúrese de incluir palabras clave para ayudar otros a encontrar sus materiales utilizando nuestras funciones de búsqueda/navegación.
 
 ## Contexto o pre-requisitos
-Este texto debería ayudar a otros docentes a comprender las situaciones de enseñanza para las cuales esta actividad es apropiada.
-
+La actividad está diseñada para cursos de **ingeniería en etapas iniciales** donde los estudiantes requieren familiarizarse con el uso de instrumentos de medición.  
+Se recomienda que los participantes tengan conocimientos básicos de:  
+- Ley de Ohm  
+- Circuitos eléctricos sencillos (serie y paralelo)  
+- Uso básico de MATLAB
+  
 ## Asignaturas o departmento donde se puede usar la Actividad
 - Ingeniería Electrónica  
 - Ingeniería Mecatrónica  
