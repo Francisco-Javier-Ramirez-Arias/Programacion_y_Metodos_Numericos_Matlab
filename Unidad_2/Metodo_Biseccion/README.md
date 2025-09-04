@@ -18,6 +18,12 @@ Asegúrese de incluir palabras clave para ayudar otros a encontrar sus materiale
 Este texto debería ayudar a otros docentes a comprender las situaciones de enseñanza para las cuales esta actividad es apropiada.
 
 ## Asignaturas o departmento donde se puede usar la Actividad
+- Ingeniería Electrónica  
+- Ingeniería Mecatrónica  
+- Bioingeniería  
+- Ingeniería Aeroespacial  
+- Cursos de tronco común en Ingeniería  
+- Laboratorios de **Mediciones Eléctricas y Electrónicas**
 
 ## Notas para los Educadores usando la Actividad
 Esta sección debe incluir notas y consejos para los instructores que podrían utilizar la actividad.
